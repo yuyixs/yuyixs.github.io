@@ -1,1 +1,1 @@
-var posts=["2023/10/21/Mysql总结/","2023/10/21/Python基础语法/","2023/10/21/blog写作需要的/","2023/10/21/java学习/","2023/10/21/ssm学习/","2023/10/21/前端知识学习/","2023/10/21/数据结构与算法/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
+var posts=["2023/10/21/JavaWeb学习/","2023/10/21/Mysql总结/","2023/10/21/Python基础语法/","2023/10/21/blog写作需要的/","2023/10/21/java学习/","2023/10/21/前端知识学习/","2023/10/21/数据结构与算法/","2023/10/23/英语学习/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
